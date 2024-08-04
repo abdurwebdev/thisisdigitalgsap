@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: Whyte;
+}
+button:hover #green{
+  left: 0;
+}
+.button2:hover #green
+{
+  left: 0;
+}
